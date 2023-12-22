@@ -8,7 +8,7 @@
 # Site Settings
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 locale                   : "en"
-title                    : "Changsheng Hao's Page"
+title                    : "Changsheng Hao"
 title_separator          : "-"
 name                     : "Changsheng Hao"
 description              : "Powered by Jekyll and minimal-mistakes theme"
