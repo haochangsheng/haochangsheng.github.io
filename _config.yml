@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Li Zeng"
-  avatar           : "/others/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Changsheng Hao"
+  avatar           : "/others/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Biostatistics Ph.D at Yale"
-  location         : "New Haven, CT"
-  email            : "li.zeng@yale.edu"
+  location         : "Shanghai, CN"
+  email            : "haochangsheng14@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
