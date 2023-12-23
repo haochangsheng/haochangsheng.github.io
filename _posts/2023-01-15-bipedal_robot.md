@@ -1,6 +1,6 @@
 ---
-title:  "Build your own website (with Jekyll and Minimal-mistakes theme)"
-date:   2017-8-17
+title:  "Research on the Locomotion Control of a Bipedal Robot"
+date:   2023-1-15
 layout: single
 author_profile: true
 ---

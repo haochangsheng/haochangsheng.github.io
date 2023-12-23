@@ -1,6 +1,6 @@
 ---
-title:  "Build your own website (with Jekyll and Minimal-mistakes theme)"
-date:   2017-8-17
+title:  " Design and Development of a Wheeled Bipedal Robot Design and Development of a Wheeled Bipedal Robot"
+date:   2023-8-10
 layout: single
 author_profile: true
 ---
