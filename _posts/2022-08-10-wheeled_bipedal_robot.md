@@ -1,5 +1,5 @@
 ---
-title:  " Design and Development of a Wheeled Bipedal Robot Design and Development of a Wheeled Bipedal Robot"
+title:  "Design and Development of a Wheeled Bipedal Robot"
 date:   2023-8-10
 layout: single
 author_profile: true
