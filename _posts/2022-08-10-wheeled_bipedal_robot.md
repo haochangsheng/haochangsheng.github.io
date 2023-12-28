@@ -1,6 +1,6 @@
 ---
 title:  "Design and Development of a Wheeled Bipedal Robot"
-date:   2023-8-10
+date:   2022-8-10
 layout: single
 author_profile: true
 ---
