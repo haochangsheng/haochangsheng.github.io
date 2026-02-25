@@ -27,3 +27,34 @@ author_profile: true
 ">
 </iframe>
 </div>
+
+## Overview
+
+This project focused on locomotion control research for a bipedal robot in Beijing (Sep 2022 – Feb 2023).  
+I served as **Locomotion Controller Developer**, working on control algorithm implementation and hardware validation.
+
+---
+
+## Key Contributions
+
+- Implemented the **NMPC-WBC (Nonlinear Model Predictive Control – Whole-Body Control)** algorithm.
+
+- Conducted hardware experiments under different:
+  - Joint configurations  
+  - Torque transmission designs  
+
+  to study the influence of mechanical design on control performance.
+
+- Decoupled the **Whole-Body Control (WBC)** framework for static standing.
+
+---
+
+## Research Focus
+
+This work emphasized:
+
+- Integration of NMPC with whole-body control  
+- Experimental evaluation of mechanical–control coupling  
+- Practical validation on real robotic hardware  
+
+The project strengthened my understanding of locomotion control and the interaction between mechanical design and controller performance.
