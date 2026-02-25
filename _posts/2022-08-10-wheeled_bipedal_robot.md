@@ -27,3 +27,37 @@ author_profile: true
 ">
 </iframe>
 </div>
+
+## Overview
+
+This project focused on the design and development of a wheeled bipedal robot in Shanghai (Sep 2021 – Jun 2022).  
+I served as **Team Leader and Locomotion Controller Developer**, leading the control algorithm design and system implementation.
+
+---
+
+## Key Contributions
+
+- Organized and coordinated a team to design and implement:
+  - An **LQR-based balance control algorithm**
+  - A **wheel-legged jumping algorithm**
+
+- Developed a motion control algorithm for a **five-link wheel-legged system** on an embedded platform.
+
+- Implemented and integrated:
+  - IMU-based state estimation  
+  - Power control  
+  - Joint-foot force feedback and control  
+
+---
+
+## System Capabilities
+
+The final robot was capable of:
+
+- Adapting to uneven terrain  
+- Performing dynamic locomotion tasks  
+- Achieving vertical jumps up to **25 cm**
+
+---
+
+This project provided hands-on experience in dynamic system control, embedded implementation, and team-level system integration.
